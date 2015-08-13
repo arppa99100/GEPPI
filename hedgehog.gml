@@ -7,7 +7,7 @@ node
 	graphics
 	[
 		x	0
-		y	0.0
+		y	0
 		w	70
 		h	30
 		type	"ellipse"
@@ -22,7 +22,7 @@ node
 	graphics
 	[
 		x	200
-		y	0.0
+		y	0
 		w	70
 		h	30
 		type	"ellipse"
@@ -37,7 +37,7 @@ node
 	graphics
 	[
 		x	400
-		y	0.0
+		y	0
 		w	70
 		h	30
 		type	"ellipse"
@@ -52,7 +52,7 @@ node
 	graphics
 	[
 		x	600
-		y	0.0
+		y	0
 		w	70
 		h	30
 		type	"ellipse"
@@ -67,7 +67,7 @@ node
 	graphics
 	[
 		x	800
-		y	0.0
+		y	0
 		w	70
 		h	30
 		type	"ellipse"
@@ -82,7 +82,7 @@ node
 	graphics
 	[
 		x	1000
-		y	0.0
+		y	0
 		w	70
 		h	30
 		type	"ellipse"
@@ -97,7 +97,7 @@ node
 	graphics
 	[
 		x	1200
-		y	0.0
+		y	0
 		w	70
 		h	30
 		type	"ellipse"
@@ -112,7 +112,7 @@ node
 	graphics
 	[
 		x	1400
-		y	0.0
+		y	0
 		w	70
 		h	30
 		type	"ellipse"
@@ -127,7 +127,7 @@ node
 	graphics
 	[
 		x	1600
-		y	0.0
+		y	0
 		w	70
 		h	30
 		type	"ellipse"
@@ -142,7 +142,7 @@ node
 	graphics
 	[
 		x	1800
-		y	0.0
+		y	0
 		w	70
 		h	30
 		type	"ellipse"
@@ -157,7 +157,7 @@ node
 	graphics
 	[
 		x	0
-		y	200.0
+		y	200
 		w	70
 		h	30
 		type	"ellipse"
@@ -172,7 +172,7 @@ node
 	graphics
 	[
 		x	200
-		y	200.0
+		y	200
 		w	70
 		h	30
 		type	"ellipse"
@@ -187,7 +187,7 @@ node
 	graphics
 	[
 		x	400
-		y	200.0
+		y	200
 		w	70
 		h	30
 		type	"ellipse"
@@ -202,7 +202,7 @@ node
 	graphics
 	[
 		x	600
-		y	200.0
+		y	200
 		w	70
 		h	30
 		type	"ellipse"
@@ -217,7 +217,7 @@ node
 	graphics
 	[
 		x	800
-		y	200.0
+		y	200
 		w	70
 		h	30
 		type	"ellipse"
@@ -232,7 +232,7 @@ node
 	graphics
 	[
 		x	1000
-		y	200.0
+		y	200
 		w	70
 		h	30
 		type	"ellipse"
@@ -247,7 +247,7 @@ node
 	graphics
 	[
 		x	1200
-		y	200.0
+		y	200
 		w	70
 		h	30
 		type	"ellipse"
@@ -262,7 +262,7 @@ node
 	graphics
 	[
 		x	1400
-		y	200.0
+		y	200
 		w	70
 		h	30
 		type	"ellipse"
@@ -277,7 +277,7 @@ node
 	graphics
 	[
 		x	1600
-		y	200.0
+		y	200
 		w	70
 		h	30
 		type	"ellipse"
@@ -292,7 +292,7 @@ node
 	graphics
 	[
 		x	1800
-		y	200.0
+		y	200
 		w	70
 		h	30
 		type	"ellipse"
@@ -307,7 +307,7 @@ node
 	graphics
 	[
 		x	0
-		y	400.0
+		y	400
 		w	70
 		h	30
 		type	"ellipse"
@@ -322,7 +322,7 @@ node
 	graphics
 	[
 		x	200
-		y	400.0
+		y	400
 		w	70
 		h	30
 		type	"ellipse"
@@ -337,7 +337,7 @@ node
 	graphics
 	[
 		x	400
-		y	400.0
+		y	400
 		w	70
 		h	30
 		type	"ellipse"
@@ -352,7 +352,7 @@ node
 	graphics
 	[
 		x	600
-		y	400.0
+		y	400
 		w	70
 		h	30
 		type	"ellipse"
@@ -367,7 +367,7 @@ node
 	graphics
 	[
 		x	800
-		y	400.0
+		y	400
 		w	70
 		h	30
 		type	"ellipse"
@@ -382,7 +382,7 @@ node
 	graphics
 	[
 		x	1000
-		y	400.0
+		y	400
 		w	70
 		h	30
 		type	"ellipse"
@@ -397,7 +397,7 @@ node
 	graphics
 	[
 		x	1200
-		y	400.0
+		y	400
 		w	70
 		h	30
 		type	"ellipse"
@@ -412,7 +412,7 @@ node
 	graphics
 	[
 		x	1400
-		y	400.0
+		y	400
 		w	70
 		h	30
 		type	"ellipse"
