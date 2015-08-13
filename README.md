@@ -33,6 +33,6 @@ Here's a [tutorial](http://opentutorials.cgl.ucsf.edu/index.php/Tutorial:Introdu
 Go to `Layout > Settings` and select the Edge-Weighted Spring Embedded Layout. A bunch of settings will pop up. Increasing the spring constant makes the graph more spread out, and so does increasing the spring resting length. I doubled both the defaults. I found I had a lot of collisions, so I increased the strength to avoid collisions to 10 (originally set at 0). The result looked pretty good to me:
 
 ![Hedgehog Network](https://raw.githubusercontent.com/pam-bot/GEPPI/master/hedgehogGraph.png)
-**Fig. 1** The network on the adjusted Edge-Weighted Spring Embedded Layout.
+**Fig. 2** The network on the adjusted Edge-Weighted Spring Embedded Layout.
 
 
