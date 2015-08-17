@@ -711,18 +711,6 @@ edge
 edge
 [
 	source	18
-	target	19
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	18
 	target	29
 	label	"pp"
 	graphics
@@ -760,42 +748,6 @@ edge
 [
 	source	18
 	target	35
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	55
-	target	19
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	55
-	target	20
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	55
-	target	18
 	label	"pp"
 	graphics
 	[
@@ -879,42 +831,6 @@ edge
 edge
 [
 	source	35
-	target	19
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	35
-	target	20
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	35
-	target	18
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	35
 	target	34
 	label	"pp"
 	graphics
@@ -940,18 +856,6 @@ edge
 [
 	source	32
 	target	32
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	32
-	target	17
 	label	"pp"
 	graphics
 	[
@@ -1023,30 +927,6 @@ edge
 edge
 [
 	source	8
-	target	20
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	8
-	target	10
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	8
 	target	11
 	label	"pp"
 	graphics
@@ -1060,18 +940,6 @@ edge
 [
 	source	8
 	target	8
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	7
-	target	16
 	label	"pp"
 	graphics
 	[
@@ -1107,30 +975,6 @@ edge
 edge
 [
 	source	7
-	target	19
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	7
-	target	20
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	7
 	target	11
 	label	"pp"
 	graphics
@@ -1144,42 +988,6 @@ edge
 [
 	source	7
 	target	25
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	7
-	target	35
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	21
-	target	20
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	21
-	target	7
 	label	"pp"
 	graphics
 	[
@@ -1215,43 +1023,7 @@ edge
 edge
 [
 	source	11
-	target	10
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	11
 	target	11
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	11
-	target	8
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	11
-	target	7
 	label	"pp"
 	graphics
 	[
@@ -1287,18 +1059,6 @@ edge
 edge
 [
 	source	25
-	target	27
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	25
 	target	26
 	label	"pp"
 	graphics
@@ -1322,200 +1082,8 @@ edge
 ]
 edge
 [
-	source	25
-	target	7
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	25
-	target	21
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	34
-	target	19
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	34
-	target	20
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	34
-	target	18
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	34
-	target	35
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	26
-	target	25
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
 	source	26
 	target	26
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	30
-	target	33
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	30
-	target	32
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	30
-	target	23
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	30
-	target	15
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	29
-	target	33
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	29
-	target	32
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	29
-	target	23
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	29
-	target	18
-	label	"pp"
-	graphics
-	[
-		width	2
-		type	"line"
-		fill	"#333333"
-	]
-]
-edge
-[
-	source	29
-	target	15
 	label	"pp"
 	graphics
 	[

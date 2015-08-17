@@ -192,12 +192,15 @@ if you want to specify colors, please specify both colors.'''
 '''.format(gd['id'], gene, x, y, color)
 	
 	# write each edge
+	edges = set([])
 	for gene in gdict.keys():
 		gd = gdict[gene]
 		for intg in gd['interactors']:
 			source = gd['id']
 			target = gdict[intg]['id']
-			stream += '''edge
+			if (source, target) not in edges and (target, source) not in edges:
+				edges.update([(source, target)])
+				stream += '''edge
 [
 	source	{0}
 	target	{1}
