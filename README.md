@@ -1,6 +1,8 @@
 # GEPPI
 GEPPI stands for Genelist Extraction of Protein-Protein Interactions. GEPPI allows you to input a gene list with their corresponding expression levels and get out a GLM file that contains the specifications for all protein-protein interactions within the gene list along with formatting that allows for colorizing nodes based on log2 expression fold change. This script is useful if, for example, you performed a differential expression experiment and you want to see which genes interact with other genes on the list. This GLM file can be directly imported into [Cytoscape](http://www.cytoscape.org/). The script `geppi.py` is a stand-alone that only uses modules from the Python Standard Library and a slightly modified [color gradient](http://bsou.io/posts/color-gradients-with-python) script that's included. It has been tested in Python 2.7.X, but I'll test on other versions if there's any interest.
 
+NOTE: Individual servers in the PSICQUIC registry may go on or offline at any time without warning, but this script was meant to sample several of the major ones with direct evidence for the PPIs. More servers on the registry may be added in the future.
+
 ## Installation and Usage
 Put `geppi.py` and `colormap.py` into your active folder. To see the usage docstring without coming to this README all the time, just write `python geppi.py` and this will print to screen:
 
