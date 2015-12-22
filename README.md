@@ -8,16 +8,19 @@ Put `geppi.py` and `colormap.py` into your active folder. To see the usage docst
 
 
 ```
-Usage: python geppi.py <tab-delim filename> [hex ucolor] [hex dcolor]
-Example: python geppi.py hedgehog.csv "#CC3300" "#006699"
+geppi.py writes a GML file using a tab-delimited
+gene list file with expression values and two hex colors
+that can form a bezier gradient with white in the middle.
+
+Usage: python geppi.py <tab-delim filename> [hex dcolor] [hex ucolor]
+Example: python geppi.py hedgehog.csv "#003366" "#AA0000"
 
 The gene list file should look like this:
-BRCA1	1.23
-BRCA2	0.56
+BRCA1    1.23
+BRCA2    0.56
 
-"ucolor" and "dcolor" are going to be blended in the
-middle, so it's best to use complementary colors. But
-if you want to specify colors, please specify both colors.
+It's best to use complementary colors for "ucolor" and "dcolor". 
+If you want to specify colors, please specify both colors.
 ```
 
 To make it work, you only need to input the file you want to process. The two colors are optional but must be enclosed by quotation marks in order to be processed correctly. I've picked orange for upregulation and blue for downregulation as default colors.
