@@ -136,7 +136,7 @@ If you want to specify colors, please specify both colors.'''
         x = xx[c]
         y = yy[c]
         c += 1
-        t = (gd['expval'] + emax) / 2 * emax
+        t = (gd['expval'] + emax) / (2 * emax)
         color = bezier_interpolate((dcolor, mcolor, ucolor), t=t)
         stream += '''node
 [
