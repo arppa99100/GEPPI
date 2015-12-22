@@ -78,7 +78,8 @@ if you want to specify colors, please specify both colors.'''
         glist = cols[0]
         expv = map(float, cols[1])
     
-    emin, emax = min(expv), max(expv)
+    # center values at zero
+    emax = max(abs(min(expv)), abs(max(expv)))
     
     print('Populating interactions dictionary...')
     gdict = {}
@@ -136,7 +137,7 @@ if you want to specify colors, please specify both colors.'''
         x = xx[c]
         y = yy[c]
         c += 1
-        t = (gd['expval']-emin)/(emax-emin)
+        t = (gd['expval'] + emax) / 2 * emax
         color = bezier_interpolate((dcolor, mcolor, ucolor), t=t)
         stream += '''node
 [
