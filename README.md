@@ -23,7 +23,7 @@ It's best to use complementary colors for "ucolor" and "dcolor".
 If you want to specify colors, please specify both colors.
 ```
 
-To make it work, you only need to input the file you want to process. The two colors are optional but must be enclosed by quotation marks in order to be processed correctly. I've picked orange for upregulation and blue for downregulation as default colors.
+To make it work, you only need to input the file you want to process. The two colors are optional but must be enclosed by quotation marks in order to be processed correctly. I've picked red for upregulation and blue for downregulation as default colors.
 
 ## Importing into Cytoscape
 What you end up with is a `filename.glm` file that can be imported and further customized by [Cytoscape](http://www.cytoscape.org/). Please follow the link to download and install if you don't have it already. Open Cytoscape and you'll notice that the first thing it does is ask if you would like to create an empty network, import from file, etc. Click the import option and load your GLM file. Click OK on the pop-up.
