@@ -67,9 +67,8 @@ The gene list file should look like this:
 BRCA1    1.23
 BRCA2    0.56
 
-"ucolor" and "dcolor" are going to be blended in the
-middle, so it's best to use complementary colors. But
-if you want to specify colors, please specify both colors.'''
+It's best to use complementary colors for "ucolor" and "dcolor". 
+If you want to specify colors, please specify both colors.'''
     
     # open the file
     with open(fname, 'r') as f:
