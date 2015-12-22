@@ -87,6 +87,7 @@ def bezier_interpolate(colors, t=0.5):
     # RGB vectors for each color, use as control points
     RGB_list = [hex_to_RGB(color) for color in colors]
     n = len(RGB_list) - 1
+    
     def bezier_interp(t):
         ''' Define an interpolation function
         for this specific curve'''

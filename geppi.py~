@@ -55,7 +55,7 @@ class PPIQuery(object):
         return [i for i in interactors if i in set(self.glist)]
 
 
-def make_gml(fname, (dcolor, mcolor, ucolor)):
+def make_gml(fname, ucolor, dcolor):
     '''geppi.py writes a GML file using a tab-delimited
 gene list file with expression values and two hex colors
 that can form a bezier gradient with white in the middle.
@@ -206,7 +206,7 @@ if __name__ == '__main__':
     except ValueError:
         dcolor, ucolor = '#003366', 'AA0000'
     
-    make_gml(fname, (dcolor, mcolor, ucolor))
+    make_gml(dcolor, mcolor, ucolor)
 
 
 
