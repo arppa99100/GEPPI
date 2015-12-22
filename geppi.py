@@ -204,7 +204,7 @@ if __name__ == '__main__':
     try:
         dcolor, ucolor = sys.argv[2:4]
     except ValueError:
-        dcolor, ucolor = '#003366', 'AA0000'
+        dcolor, ucolor = '#003366', '#AA0000'
     
     make_gml(fname, (dcolor, mcolor, ucolor))
 
